@@ -4,7 +4,7 @@
 
 <h3 align="center"> Меня зовут МАКС </h3>
 
-<img src="foto.jpg"  height="182" alt="morning">  
+<img src="foto.png"  height="182" alt="morning">  
 
 
 
