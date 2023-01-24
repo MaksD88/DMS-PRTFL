@@ -2,10 +2,11 @@
 <h1 align="center">Привет World!)  <a target="_blank" > </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="82"/></h1>
 
-<h3 align="center"> Меня зовут МАКС </h3>
+<h2 align="center"> Меня зовут МАКС </h2>
 
 <img src="foto.png"  height="182" alt="morning">  
-      Я ИЗ РОССИИ:  
+
+     Я ИЗ РОССИИ: 
       
 Желаю **теплого**, *светлого*, **лёгкого**, бодрого и солнечного начала
 дня.  
