@@ -14,6 +14,7 @@
 >***Пусть предстоящий день радует приятными возможностями, неожиданными встречами и сюрпризами.***  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFC0CB&lines=My+contacts+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFC0CB&lines=My+contacts+here)](https://git.io/typing-svg)  
+
 tel: 789995552  
 <address@example.com> 
