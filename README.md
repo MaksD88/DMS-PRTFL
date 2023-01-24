@@ -1,6 +1,6 @@
 
 <h1 align="center">Привет World!)  <a target="_blank" > </a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="82"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="92"/></h1>
 
 <h2 align="center"> Меня зовут МАКС </h2>
 
